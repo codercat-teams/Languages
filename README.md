@@ -693,3 +693,12 @@ Language Archive.
 + Visual LISP
 + Visual Objects
 + Visual Prolog
+
+## W
++ WATFIV, WATFOR
++ WebAssembly
++ WebDNA
++ Whiley
++ Winbatch
++ Wolfram Language
++ Wyvern
