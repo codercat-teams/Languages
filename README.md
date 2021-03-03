@@ -269,3 +269,14 @@ Language Archive.
 + Hugo
 + Hume
 + HyperTalk
+
+## I
++ Io
++ Icon
++ IBM Basic assembly language
++ IBM HAScript
++ IBM Informix-4GL
++ IBM RPG
++ IDL
++ Idris
++ Inform
