@@ -705,19 +705,21 @@ Language Archive.
 + Wyvern
 
 ## X
-+ X++
 + X10
++ XAML
 + xBase
 + xBase++
 + XBL
 + XC
 + xHarbour
 + XL
++ XML
++ Xod
 + Xojo
 + XOTcl
-+ Xod
 + XPL
 + XPL0
++ X++
 + XQuery
 + XSB
 + XSharp
