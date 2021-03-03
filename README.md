@@ -1,7 +1,7 @@
 # Languages
 Language Archive.
 
-# A
+## A
 + A#
 + A-0 System
 + A+
@@ -50,3 +50,21 @@ Language Archive.
 + Averest
 + AWK
 + Axum
+
+## B
++ B
++ Babbage
++ Ballerina
++ Bash
++ BASIC
++ Batch file
++ bc (basic calculator)
++ BCPL
++ BeanShell
++ Bertrand
++ BETA
++ BLISS
++ Blockly
++ BlooP
++ Boomerang
++ Bosque
