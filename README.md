@@ -265,8 +265,10 @@ Language Archive.
 + Hollywood
 + HolyC
 + Hop
-+ Hopscotch
 + Hope
++ Hopscotch
++ HTML
++ HTMLX
 + Hugo
 + Hume
 + HyperTalk
