@@ -289,26 +289,27 @@ Language Archive.
 ## J
 + J
 + J#
-+ J++
 + JADE
 + Jai
 + JAL
-+ Janus (concurrent constraint programming language)
-+ Janus (time-reversible computing programming language)
++ Janus
++ Janus
 + JASS
 + Java
 + JavaFX Script
 + JavaScript
-+ Jess
 + JCL
 + JEAN
++ Jess
 + Join Java
 + JOSS
 + Joule
 + JOVIAL
 + Joy
++ J++
 + JScript
 + JScript.NET
++ JSON
 + Julia
 + Jython
 
