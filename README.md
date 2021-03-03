@@ -4,7 +4,6 @@ Language Archive.
 ## A
 + A#
 + A-0 System
-+ A+
 + ABAP
 + ABC
 + ABC ALGOL
@@ -35,9 +34,11 @@ Language Archive.
 + AMOS (AMOS BASIC)
 + AMPL
 + AngelScript
++ ANTLR
 + Apacge Pig latin
 + Apex (Salesforce.com, Inc)
 + APL
++ A+
 + App Inventor for Android's visual block language (MIT APP Inventor)
 + AppleScript
 + APT
@@ -45,8 +46,8 @@ Language Archive.
 + ARexx
 + Argus
 + Assembly (ASM)
-+ AutotIt
 + AutoLISP / Visual LISP
++ AutotIt
 + Averest
 + AWK
 + Axum
