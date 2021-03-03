@@ -247,3 +247,25 @@ Language Archive.
 + GRASS
 + Grasshopper
 + Groovy
+
+## H
++ Hack
++ HAGGIS
++ HAL/S
++ Halide
++ Hamilton C shell
++ Harbour
++ Hartmann pipelines
++ Haskell
++ Haxe
++ Hermes
++ High Level Assembly
++ HLSL
++ Hollywood
++ HolyC
++ Hop
++ Hopscotch
++ Hope
++ Hugo
++ Hume
++ HyperTalk
