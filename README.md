@@ -127,6 +127,7 @@ Language Archive.
 + Cryptol
 + Crystal
 + C Shell (csh)
++ CSON
 + Csound
 + CSS
 + Cuneiform
