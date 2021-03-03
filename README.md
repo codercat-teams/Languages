@@ -639,3 +639,32 @@ Language Archive.
 + Swift (parallel scripting language)
 + SYMPL
 + SystemVerilog
+
+## T
++ T
++ TACL
++ TACPOL
++ TADS
++ TAL
++ Tcl
++ Tea
++ TECO
++ TELCOMP
++ TeX
++ TEX
++ TIE
++ TMG, compiler-compiler
++ Tom
++ Toi
++ Topspeed
++ TPU
++ Trac
++ TTM
++ T-SQL (Transact-SQL)
++ Transcript
++ TTCN
++ Turing
++ TUTOR
++ TXL
++ TypeScript
++ Tynker
