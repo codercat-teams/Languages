@@ -368,31 +368,31 @@ Language Archive.
 + Lynx
 
 ## M
-+ M2001
-+ M4
 + M#
++ M4
++ M2001
 + Machine code
 + MAD (Michigan Algorithm Decoder)
 + MAD/I
 + Magik
 + Magma
-+ Máni
 + Maple
 + MAPPER (now part of BIS)
 + MARK-IV (now VISION:BUILDER)
 + Mary
-+ MATLAB
 + MASM Microsoft Assembly x86
 + MATH-MATIC
++ MATLAB
 + Maude system
-+ Maxima (see also Macsyma)
 + Max (Max Msp)
++ Maxima (see also Macsyma)
 + MaxScript internal language 3D Studio Max
 + Maya (MEL)
 + MDL
 + Mercury
 + Mesa
 + MHEG-5
++ MHQL
 + Microcode
 + MicroScript
 + MIIS
@@ -412,11 +412,12 @@ Language Archive.
 + Mortran
 + Mouse
 + MPD
++ MPL (Mystic Programming Language)
 + MSL
 + MUMPS
 + MuPAD
 + Mutan
-+ Mystic Programming Language (MPL)
++ Máni
 
 ## N
 + NASM
