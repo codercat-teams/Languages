@@ -438,3 +438,35 @@ Language Archive.
 + Nu
 + NWScript
 + NXT-G
+
+## O
++ o:XML
++ Oak
++ Oberon
++ OBJ2
++ Object Lisp
++ ObjectLOGO
++ Object REXX
++ Object Pascal
++ Objective-C
++ Objective-J
++ Obliq
++ OCaml
++ occam
++ occam-π
++ Octave
++ OmniMark
++ Opa
++ Opal
++ OpenCL
++ OpenEdge ABL
++ OPL
++ OpenVera
++ OPS5
++ OptimJ
++ Orc
++ ORCA/Modula-2
++ Oriel
++ Orwell
++ Oxygene
++ Oz
