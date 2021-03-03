@@ -678,3 +678,17 @@ Language Archive.
 + UNITY
 + Unix shell
 + UnrealScript
+
+## V
++ Vala
++ Verilog
++ VHDL
++ Vim script
++ Viper
++ Visual DataFlex
++ Visual DialogScript
++ Visual FoxPro
++ Visual J++
++ Visual LISP
++ Visual Objects
++ Visual Prolog
