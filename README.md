@@ -534,3 +534,13 @@ Language Archive.
 + Pure Data
 + PureScript
 + Python
+
+## Q
++ Q
++ Q#
++ Qalb
++ Quantum Computation Language
++ QtScript
++ QuakeC
++ QPL
++ .QL
