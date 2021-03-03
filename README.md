@@ -189,3 +189,32 @@ Language Archive.
 + EXEC 2
 + Executable UML
 + Ezhil
+
+## F
++ F
++ F#
++ F*
++ Factor
++ Fantom
++ FAUST
++ FFP
++ fish
++ Fjölnir
++ FL
++ Flavors
++ Flex
++ Flix
++ FlooP
++ FLOW-MATIC
++ FOCAL
++ FOCUS
++ FOIL
++ FORMAC
++ @Formula
++ Forth
++ Fortran
++ Fortress
++ FP
++ Franz Lisp
++ Futhark
++ F-Script
