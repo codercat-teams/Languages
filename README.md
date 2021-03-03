@@ -382,13 +382,13 @@ Language Archive.
 + MATH-MATIC
 + Maude system
 + Maxima (see also Macsyma)
-+ Max (Max Msp – Graphical Programming Environment)
++ Max (Max Msp)
 + MaxScript internal language 3D Studio Max
 + Maya (MEL)
 + MDL
 + Mercury
 + Mesa
-+ MHEG-5 (Interactive TV programming language)
++ MHEG-5
 + Microcode
 + MicroScript
 + MIIS
@@ -413,3 +413,28 @@ Language Archive.
 + MuPAD
 + Mutan
 + Mystic Programming Language (MPL)
+
+## N
++ NASM
++ Napier88
++ Neko
++ Nemerle
++ NESL
++ Net.Data
++ NetLogo
++ NetRexx
++ NewLISP
++ NEWP
++ Newspeak
++ NewtonScript
++ Nial
++ Nickle (NITIN)
++ Nim
++ Nix
++ NPL
++ Not eXactly C (NXC)
++ Not Quite C (NQC)
++ NSIS
++ Nu
++ NWScript
++ NXT-G
