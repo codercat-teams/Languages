@@ -335,8 +335,10 @@ Language Archive.
 ## L
 + LabVIEW
 + Ladder
++ Language H
 + LANSA
 + Lasso
++ LaTeX
 + Lava
 + LC-3
 + Lean
@@ -350,11 +352,12 @@ Language Archive.
 + LINQ
 + LIS
 + LISA
-+ Language H
 + Lisp
 + Lite-C
 + Lithe
 + Little b
++ LiveCode
++ LiveScript
 + LLL
 + Logo
 + Logtalk
@@ -362,8 +365,6 @@ Language Archive.
 + LPC
 + LSE
 + LSL
-+ LiveCode
-+ LiveScript
 + Lua
 + Lucid
 + Lustre
