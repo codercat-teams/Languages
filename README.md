@@ -1,5 +1,5 @@
 # Languages
-Programming Language Archive.
+Language Archive.
 
 # A
 + A#
