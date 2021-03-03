@@ -470,3 +470,67 @@ Language Archive.
 + Orwell
 + Oxygene
 + Oz
+
+## P
++ P
++ P4
++ P′′
++ ParaSail
++ PARI/GP
++ Pascal
++ Pascal Script
++ PCASTL
++ PCF
++ PEARL
++ PeopleCode
++ Perl
++ PDL
++ Pharo
++ PHP
++ Pico
++ Picolisp
++ Pict
++ Pike
++ PILOT
++ Pipelines
++ Pizza
++ PL-11
++ PL/0
++ PL/B
++ PL/C
++ PL/I – ISO 6160
++ PL/M
++ PL/P
++ PL/SQL
++ PL360
++ PLANC
++ Plankalkül
++ Planner
++ PLEX
++ PLEXIL
++ Plus
++ POP-11
++ POP-2
++ PostScript
++ PortablE
++ POV-Ray SDL
++ Powerhouse
++ PowerBuilder – 4GL GUI application generator from Sybase
++ PowerShell
++ PPL
++ Processing
++ Processing.js
++ Prograph
++ PROIV
++ Project Verona
++ Prolog
++ PROMAL
++ Promela
++ PROSE modeling language
++ PROTEL
++ ProvideX
++ Pro\*C
++ Pure
++ Pure Data
++ PureScript
++ Python
