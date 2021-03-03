@@ -702,3 +702,23 @@ Language Archive.
 + Winbatch
 + Wolfram Language
 + Wyvern
+
+## X
++ X++
++ X10
++ xBase
++ xBase++
++ XBL
++ XC
++ xHarbour
++ XL
++ Xojo
++ XOTcl
++ Xod
++ XPL
++ XPL0
++ XQuery
++ XSB
++ XSharp
++ XSLT
++ Xtend
