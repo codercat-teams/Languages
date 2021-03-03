@@ -68,3 +68,71 @@ Language Archive.
 + BlooP
 + Boomerang
 + Bosque
+
+## C
++ C
++ C--
++ C++
++ C*
++ C#
++ C/AL
++ Caché ObjectScript
++ C Shell (csh)
++ Caml
++ Cayenne (Lennart Augustsson)
++ CDuce
++ Cecil
++ Cesil (Computer Education in Schools Instruction Language)
++ Céu
++ Ceylon
++ CFEngine
++ Cg (High-Level Shader/Shading Language [HLSL])
++ Ch
++ Chapel (Cascade High Productivity Language)
++ Charm
++ CHILL
++ CHIP-8
++ chomski (pattern parsing virtual machine/pep)
++ ChucK
++ Cilk (also Cilk++)
++ CL (IBM i Control language)
++ Claire
++ Clarion
++ Clean
++ Clipper
++ CLIPS
++ CLIST
++ Clojure
++ CLU
++ CMS-2
++ COBOL
++ CobolScript
++ Cobra
++ CoffeScript
++ ColdFusion
++ COMAL
++ CPL (Combined Programming Language)
++ COMIT
++ CIL (Comman Intermediate Language)
++ Common Lisp (also known as CL)
++ COMPASS
++ Component Pascal
++ CHR (Constraint Handling Rules)
++ COMTRAN
++ Cool
++ Coq
++ Coral 66
++ CorVision
++ COWSEL
++ CPL
++ Cryptol
++ Crystal
++ Csound
++ Cuneiform
++ Curl
++ Curry
++ Cybil
++ Cyclone
++ Cypher Query Language
++ Cython
++ CEEMAC
