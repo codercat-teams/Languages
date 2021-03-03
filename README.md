@@ -136,3 +136,23 @@ Language Archive.
 + Cypher Query Language
 + Cython
 + CEEMAC
+
+## D
++ D
++ Dart
++ Darwin
++ DataFlex
++ Datalog
++ DATATRIEVE
++ dBase
++ dc
++ DCL
++ Delphi
++ DinkC
++ DIBOL
++ Dog
++ Draco
++ DRAKON
++ Dylan
++ DYNAMO
++ DAX (Data Analysis Expressions)
