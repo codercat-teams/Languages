@@ -156,3 +156,36 @@ Language Archive.
 + Dylan
 + DYNAMO
 + DAX (Data Analysis Expressions)
+
+## E
++ E
++ Ease
++ Easy PL/I
++ EASYTRIEVE PLUS
++ eC
++ ECMAScript
++ Edinburgh IMP
++ EGL
++ Eiffel
++ ELAN
++ Elixir
++ Elm
++ Emacs Lisp
++ Emerald
++ Epigram
++ EPL (Easy Programming Language)
++ EPL (Eltron Programming Language)
++ Erlang
++ es
++ Escher
++ ESPOL
++ Esterel
++ Etoys
++ Euclid
++ Euler
++ Euphoria
++ EusLisp Robot Programming Language
++ CMS EXEC (EXEC)
++ EXEC 2
++ Executable UML
++ Ezhil
