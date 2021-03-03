@@ -579,11 +579,12 @@ Language Archive.
 + Rust
 
 ## S
+
 + S
-+ S2
-+ S3
 + S-Lang
 + S-PLUS
++ S2
++ S3
 + SA-C
 + SabreTalk
 + SAIL
@@ -591,6 +592,7 @@ Language Archive.
 + SASL
 + Sather
 + Sawzall
++ SBL
 + Scala
 + Scheme
 + Scilab
@@ -603,9 +605,11 @@ Language Archive.
 + SequenceL
 + Serpent
 + SETL
-+ SIMPOL
++ S/SL
++ SGML
 + SIGNAL
 + SiMPLE
++ SIMPOL
 + SIMSCRIPT
 + Simula
 + Simulink
@@ -615,7 +619,6 @@ Language Archive.
 + SMALL
 + Smalltalk
 + SML
-+ Strongtalk
 + Snap!
 + SNOBOL (SPITBOL)
 + Snowball
@@ -626,21 +629,20 @@ Language Archive.
 + SPARK
 + Speakeasy
 + Speedcode
-+ SPIN
 + SP/k
++ SPIN
 + SPS
 + SQL
 + SQR
 + Squeak
 + Squirrel
 + SR
-+ S/SL
 + Starlogo
-+ Strand
 + Stata
 + Stateflow
++ Strand
++ Strongtalk
 + Subtext
-+ SBL
 + SuperCollider
 + SuperTalk
 + Swift (Apple programming language)
