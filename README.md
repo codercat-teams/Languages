@@ -362,3 +362,54 @@ Language Archive.
 + Lustre
 + LYaPAS
 + Lynx
+
+## M
++ M2001
++ M4
++ M#
++ Machine code
++ MAD (Michigan Algorithm Decoder)
++ MAD/I
++ Magik
++ Magma
++ Máni
++ Maple
++ MAPPER (now part of BIS)
++ MARK-IV (now VISION:BUILDER)
++ Mary
++ MATLAB
++ MASM Microsoft Assembly x86
++ MATH-MATIC
++ Maude system
++ Maxima (see also Macsyma)
++ Max (Max Msp – Graphical Programming Environment)
++ MaxScript internal language 3D Studio Max
++ Maya (MEL)
++ MDL
++ Mercury
++ Mesa
++ MHEG-5 (Interactive TV programming language)
++ Microcode
++ MicroScript
++ MIIS
++ Milk
++ MIMIC
++ Mirah
++ Miranda
++ MIVA Script
++ ML
++ Model 204
++ Modelica
++ Modula
++ Modula-2
++ Modula-3
++ Mohol
++ MOO
++ Mortran
++ Mouse
++ MPD
++ MSL
++ MUMPS
++ MuPAD
++ Mutan
++ Mystic Programming Language (MPL)
