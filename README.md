@@ -71,21 +71,19 @@ Language Archive.
 
 ## C
 + C
-+ C--
-+ C++
-+ C*
 + C#
-+ C/AL
++ C*
++ C--
 + Caché ObjectScript
-+ C Shell (csh)
 + Caml
 + Cayenne (Lennart Augustsson)
 + CDuce
 + Cecil
++ CEEMAC
 + Cesil (Computer Education in Schools Instruction Language)
-+ Céu
 + Ceylon
 + CFEngine
++ C/AL
 + Cg (High-Level Shader/Shading Language [HLSL])
 + Ch
 + Chapel (Cascade High Productivity Language)
@@ -93,7 +91,9 @@ Language Archive.
 + CHILL
 + CHIP-8
 + chomski (pattern parsing virtual machine/pep)
++ CHR (Constraint Handling Rules)
 + ChucK
++ CIL (Comman Intermediate Language)
 + Cilk (also Cilk++)
 + CL (IBM i Control language)
 + Claire
@@ -111,13 +111,10 @@ Language Archive.
 + CoffeScript
 + ColdFusion
 + COMAL
-+ CPL (Combined Programming Language)
 + COMIT
-+ CIL (Comman Intermediate Language)
 + Common Lisp (also known as CL)
 + COMPASS
 + Component Pascal
-+ CHR (Constraint Handling Rules)
 + COMTRAN
 + Cool
 + Coq
@@ -125,9 +122,13 @@ Language Archive.
 + CorVision
 + COWSEL
 + CPL
++ CPL (Combined Programming Language)
++ C++
 + Cryptol
 + Crystal
++ C Shell (csh)
 + Csound
++ CSS
 + Cuneiform
 + Curl
 + Curry
@@ -135,7 +136,7 @@ Language Archive.
 + Cyclone
 + Cypher Query Language
 + Cython
-+ CEEMAC
++ Céu
 
 ## D
 + D
