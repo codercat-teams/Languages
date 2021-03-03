@@ -218,3 +218,32 @@ Language Archive.
 + Franz Lisp
 + Futhark
 + F-Script
+
+## G
++ Game Maker Language
++ GameMonkey Script
++ GAMS (General Algebraic Modeling System)
++ GAP
++ G-code
++ GDScript (Godot)
++ Genie
++ GDL (Geometric Description Language)
++ GEORGE
++ GLSL (OpenGL Shading Language)
++ GEORGE
++ GNU E
++ GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)
++ Go
++ Go!
++ GOAL (Game Oriented Assembly Lisp)
++ Gödel
++ Golo
++ GOM (Good Old Mad)
++ Google Apps Script
++ Gosu
++ GOTRAN (IBM 1620)
++ GPSS (General Purpose Simulation System)
++ GraphTalk (Computer Sciences Corporation)
++ GRASS
++ Grasshopper
++ Groovy
