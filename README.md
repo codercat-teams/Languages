@@ -685,6 +685,7 @@ Language Archive.
 + VHDL
 + Vim script
 + Viper
++ Visual C++
 + Visual DataFlex
 + Visual DialogScript
 + Visual FoxPro
