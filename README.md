@@ -324,3 +324,41 @@ Language Archive.
 + KornShell (ksh)
 + Kodu
 + Kv
+
+## L
++ LabVIEW
++ Ladder
++ LANSA
++ Lasso
++ Lava
++ LC-3
++ Lean
++ Legoscript
++ LIL
++ LilyPond
++ Limbo
++ Limnor
++ LINC
++ Lingo
++ LINQ
++ LIS
++ LISA
++ Language H
++ Lisp
++ Lite-C
++ Lithe
++ Little b
++ LLL
++ Logo
++ Logtalk
++ LotusScript
++ LPC
++ LSE
++ LSL
++ LiveCode
++ LiveScript
++ Lua
++ Lucid
++ Lustre
++ LYaPAS
++ Lynx
