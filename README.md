@@ -215,6 +215,7 @@ Language Archive.
 + Fortran
 + Fortress
 + FP
++ Fract
 + Franz Lisp
 + Futhark
 + F-Script
