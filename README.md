@@ -69,6 +69,7 @@ Language Archive.
 + BlooP
 + Boomerang
 + Bosque
++ Brainfuck
 
 ## C
 + C
