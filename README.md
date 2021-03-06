@@ -654,6 +654,7 @@ Language Archive.
 
 ## T
 + T
++ T-SQL (Transact-SQL)
 + TACL
 + TACPOL
 + TADS
@@ -666,20 +667,20 @@ Language Archive.
 + TEX
 + TIE
 + TMG, compiler-compiler
-+ Tom
 + Toi
++ Tom
++ TOML
 + Topspeed
 + TPU
 + Trac
-+ TTM
-+ T-SQL (Transact-SQL)
 + Transcript
 + TTCN
++ TTM
 + Turing
 + TUTOR
 + TXL
-+ TypeScript
 + Tynker
++ TypeScript
 
 ## U
 + Ubercode
