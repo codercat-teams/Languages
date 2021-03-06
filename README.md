@@ -53,7 +53,6 @@ Language Archive.
 + Axum
 
 ## B
-+ B
 + Babbage
 + Ballerina
 + Bash
@@ -62,6 +61,7 @@ Language Archive.
 + bc (basic calculator)
 + BCPL
 + BeanShell
++ Beef
 + Bertrand
 + BETA
 + BLISS
