@@ -558,7 +558,6 @@ Language Archive.
 
 ## R
 + R
-+ R++
 + Racket
 + Raku
 + RAPID
@@ -572,17 +571,18 @@ Language Archive.
 + Redcode
 + REFAL
 + REXX
++ Ring
 + Rlab
 + ROOP
 + RPG
 + RPL
++ R++
 + RSL
 + RTL/2
 + Ruby
 + Rust
 
 ## S
-
 + S
 + S-Lang
 + S-PLUS
